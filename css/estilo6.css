@@ -1,0 +1,63 @@
+
+
+#menu{
+	background-color: #000;
+	border-radius: 20px;
+}
+.m{
+	font-family: "Arial";
+}	
+#menu ul{
+list-style: none;
+margin: 0;
+padding: 0;
+}
+#menu ul li{
+display: inline-block;
+}
+        
+ #menu ul li a{
+	color: white;
+	 display: block;
+	 padding: 20px 20px;
+	 text-decoration: none;
+}
+#menu ul li a:hover{
+	background-color: #42B881;
+	border-radius: 20px;
+}
+.t1{
+	font-family: "Arial";
+}
+body{
+	background-color: darkturquoise;
+}
+.p1{
+	font-family: "Arial";
+	font-size: 20px;
+}
+.p2{
+	font-family: "Arial";
+	font-size: 20px;
+}
+.t2{
+	font-family: "Arial";
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	padding: 1em;
+}
+.t3{
+	font-family: "Arial";
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	padding: 1em;
+}
+.m5{
+	font-family: "Arial";
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	padding: 1em;
+}
