@@ -107,3 +107,36 @@ h1{
 	border-radius: 20px;
 	padding: 1em;
 }
+.i4{
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	padding: 1em;
+}
+.p5{
+	font-family: "Arial";
+	background-color: darkgrey;
+	border-radius: 10px;
+	margin-top: 12px;
+	margin-right: 14px;
+	margin-left: 40px;
+}
+.i5{
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	padding: 1em;
+}
+.p6{
+	font-family: "Arial";
+	font-size: 18px;
+}
+.i6{
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	padding: 1em;
+}
+.l1{
+	margin: 20px;
+}
